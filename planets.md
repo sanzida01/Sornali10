@@ -1,2 +1,3 @@
 the number of planets are
-nine
+nine, or eight, depending on who you ask.
+
